@@ -1,8 +1,8 @@
-### Hi there 👋, NGUENA ZEBS
+### Hi there 👋, MOI c est NGUENA ZEBS🤴 (debutant)
 #### Design and Development
 ![Design and Development](https://pbs.twimg.com/profile_banners/1313827856842199040/1645097782/1080x360)
 
-Je suis NGUENA ZEBS HAUPUR FAUST du Cameroun, et je fais dans la conception de page web (niveau intermédiaire) HTML CSS JS / wordpress. Je voudrais vraiment apprendre le PHP, PYTHON et apprendre des frameworks comme React et React Native. J'aime aussi le wireframing, l'interface utilisateur, et le design en général des pages web.
+Je suis NGUENA ZEBS ou appel moi Pilote du Cameroun, et je fais dans la conception de page web (niveau intermédiaire) HTML CSS JS / wordpress. Je voudrais vraiment apprendre le PHP, PYTHON et apprendre des frameworks comme React et React Native. J'aime aussi le wireframing, l'interface utilisateur, et le design en général des pages web.
 
 Skills: HTML / CSS / JS / C  / java / wordpress
 
