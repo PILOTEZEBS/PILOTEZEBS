@@ -15,7 +15,7 @@ Skills: HTML/ CSS/ JS/ JAVA/ C/ C++/ PYTHON/ WORDPRESS
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
 #### MA PASSION:
-<img href="https://github.com/PILOTEZEBS/pagetestpilotezebs/blob/772888e1e0135340da8ed6aa46ade1ba4a0960f5/anim.gif" width="256px">
+<img href="https://github.com/PILOTEZEBS/pagetestpilotezebs/blob/772888e1e0135340da8ed6aa46ade1ba4a0960f5/anim.gif" width="256">
 
 
 
