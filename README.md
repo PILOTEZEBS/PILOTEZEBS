@@ -18,6 +18,7 @@
 <a href="https://linkedin.com/in/pilote_zebs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pilote_zebs" height="30" width="40" /></a>
 <a href="https://fb.com/pilote_zebs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pilote_zebs" height="30" width="40" /></a>
 <a href="https://instagram.com/pilote_zebs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pilote_zebs" height="30" width="40" /></a>
+<a href="https://discord.gg/PILOTE#1907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PILOTE#1907" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,3 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pilotezebs&show_icons=true&locale=en&layout=compact" alt="pilotezebs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pilotezebs&show_icons=true&locale=en" alt="pilotezebs" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pilotezebs&" alt="pilotezebs" /></p>
