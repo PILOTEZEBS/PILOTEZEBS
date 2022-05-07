@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pilotezebs&show_icons=true&locale=en" alt="pilotezebs" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pilotezebs&" alt="pilotezebs" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pilotezebs&" alt="pilotezebs" /> <img src="<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="animation" width="40" height="40"/>" alt="animation" width="40" height="40"/></p>
