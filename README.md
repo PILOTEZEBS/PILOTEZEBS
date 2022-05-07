@@ -1,22 +1,27 @@
-### Hi there 👋, my name is NGUENA ZEBS
-#### CODEUR, DEVELOPMENT and DESIGN
-![CODEUR, DEVELOPMENT and DESIGN](https://pbs.twimg.com/profile_banners/1313827856842199040/1647899710/1080x360)
+<h1 align="center"> Salut 👋, je suis NGUENA ZEBS</h1>
+<h3 align="center">Salut une fois de plus Je suis l'étudiant NGUENA ZEBS ou appel moi Pilote😅(Cameroun) Concepteur Developpeur d Application pour l economie numerique en formation à Institut Saint Jean. LICENCE PRO</h3>
 
-Salut une fois de plus Je suis l'etudiant NGUENA ZEBS ou appel moi Pilote😅(Cameroun), et je fais dans la conception de page web HTML CSS JS / wordpress. De plus je code en C /C++ /JAVA /PYTHON/JS Je voudrais vraiment apprendre le PHP et KALI LINUX😁😁. J'aime aussi le wireframing, l'interface utilisateur, et le design en général des pages web. Je voudrais devenir un Developpeur full stack en fait👏👏. vous etes le bienvenue sur ma page le pro
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pilotezebs" alt="pilotezebs" /></a> </p>
 
-Skills: HTML/ CSS/ JS/ JAVA/ C/ C++/ PYTHON/ WORDPRESS
+- 👯 Je collabore avec Dev@Dan [Formation](https://www.youtube.com/channel/UCCwgg65nIWmoIXB2jwflNYA)
 
-- 🔭 I’m currently working on python et les interfaces java 
-- 🌱 I’m currently learning kali linux, Laravel 
+- 👨‍💻 Tous mes projets sont disponibles sur [https://github.com/PILOTEZEBS?tab=repositories](https://github.com/PILOTEZEBS?tab=repositories)
 
+- 📝 J'écris régulièrement des articles sur [https://wa.me/message/GISYPNEZWRZOF1](https://wa.me/message/GISYPNEZWRZOF1)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/PILOTEZEBS)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/pilote-zebs-aa248522b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/haupur.zebs.5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/pilote_zebs//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/PiloteZebs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/amazonaws.svg' alt='amazonaws' height='40'>](https://us-east-1.console.aws.amazon.com/console/home?nc2=h_ct&region=us-east-1&src=header-signin#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/canva.svg' alt='canva' height='40'>](https://www.canva.com/settings/your-account)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://wa.me/message/GISYPNEZWRZOF1)  
+- 📫 Comment me joindre **haupur.nguena@institutsaintjean.org**
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/pilote_zebs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pilote_zebs" height="30" width="40" /></a>
+<a href="https://fb.com/pilote_zebs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pilote_zebs" height="30" width="40" /></a>
+<a href="https://instagram.com/pilote_zebs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pilote_zebs" height="30" width="40" /></a>
+</p>
 
-#### MA PASSION:
-<img href="https://github.com/PILOTEZEBS/pagetestpilotezebs/blob/master/anim.gif" width="256">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pilotezebs&show_icons=true&locale=en" alt="pilotezebs" /></p>
 
 
 
