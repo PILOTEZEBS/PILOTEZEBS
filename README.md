@@ -30,4 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pilotezebs&show_icons=true&locale=en" alt="pilotezebs" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pilotezebs&" alt="pilotezebs" /></p>
-<p> <a href="https://ko-fi.com/pilotezebs"> <img align="left" src="https://cdn .ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="pilotezebs" /></a>
+<p> <a href="https://ko-fi.com/pilotezebs"> <img align="left" src="[https://cdn .ko-fi.com/cdn/kofi3.png?v=3](https://storage.ko-fi.com/cdn/useruploads/affad9a7-e493-44de-a3be-d87a64e75234_tiny.png)" height="50" width="210" alt="pilotezebs" /></a>
