@@ -30,6 +30,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pilotezebs&show_icons=true&locale=en" alt="pilotezebs" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pilotezebs&" alt="pilotezebs" /></p>
-<p><a href="https://ko-fi.com/pilotezebs"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="pilotezebs" /></a></p>
-<h3 align="left">Mess partenaires:</h3>
-<p><a href="[[https://ko-fi.com/pilotezebs](https://avatars.githubusercontent.com/u/96875506?v=4)](https://github.com/Christ118)"> <img align="left" src="[https://cdn.ko-fi.com/cdn/kofi3.png?v=3](https://avatars.githubusercontent.com/u/96875506?v=4)" height="50" width="210" alt="pilotezebs" /></a></p>
+<p><a href="https://ko-fi.com/pilotezebs"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="pilotezebs" /></a></p></br>
+<h3 align="left">partenaires:</h3>
+<a href="[https://www.w3schools.com/cpp/](https://github.com/Christ118)" target="_blank" rel="noreferrer"> <img src[="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg](https://avatars.githubusercontent.com/u/96875506?v=4)" alt="ChristianNG" width="40" height="40"/> </a>
