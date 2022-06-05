@@ -32,4 +32,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pilotezebs&" alt="pilotezebs" /></p>
 <p><a href="https://ko-fi.com/pilotezebs"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="pilotezebs" /></a></p><br><br>
 <h3 align="left">Mes Partenaires:</h3>
-<a href="https://github.com/Christ118" target="_blank"> <img src="https://avatars.githubusercontent.com/u/96875506?v=4" alt="ChristianNG" width="55" height="55"/> </a>
+<a href="https://github.com/Christ118" target="_blank"> <img src="https://avatars.githubusercontent.com/u/96875506?v=4" alt="ChristianNG" width="55" height="55" title="ChristianNG"/> </a>
