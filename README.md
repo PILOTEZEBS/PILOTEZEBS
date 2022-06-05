@@ -31,3 +31,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pilotezebs&" alt="pilotezebs" /></p>
 <p><a href="https://ko-fi.com/pilotezebs"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="pilotezebs" /></a></p>
+<h3 align="left">Mess partenaires:</h3>
+<p><a href="[[https://ko-fi.com/pilotezebs](https://avatars.githubusercontent.com/u/96875506?v=4)](https://github.com/Christ118)"> <img align="left" src="[https://cdn.ko-fi.com/cdn/kofi3.png?v=3](https://avatars.githubusercontent.com/u/96875506?v=4)" height="50" width="210" alt="pilotezebs" /></a></p>
