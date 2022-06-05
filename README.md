@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pilotezebs&label=Profile%20views&color=0e75b6&style=flat" alt="pilotezebs" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=chalk" alt="pilotezebs" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai" alt="pilotezebs" /></a> </p>
 
 - 👯 Je collabore avec Dev@Dan [Formation](https://www.youtube.com/channel/UCCwgg65nIWmoIXB2jwflNYA)
 
