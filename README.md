@@ -3,7 +3,7 @@
 <h1 align="center"> Salut 👋, je suis NGUENA ZEBS</h1>
 <h3 align="center">Salut une fois de plus Je suis l'étudiant NGUENA ZEBS ou appel moi Pilote😅(Cameroun) Concepteur Developpeur d Application pour l economie numerique en formation à Institut Saint Jean. LICENCE PRO</h3>
 
-<h1 align="center"><img src="https://github.com/muntakim1/muntakim1/raw/master/home-banner.gif" width="150" height="140" align="center"></h1>
+<h1 align="center"><img src="https://github.com/muntakim1/muntakim1/raw/master/home-banner.gif" width="150" height="120" align="center"></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pilotezebs&label=Profile%20views&color=0e75b6&style=flat" alt="pilotezebs" /> </p>
 
