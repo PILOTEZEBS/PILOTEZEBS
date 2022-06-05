@@ -1,5 +1,5 @@
 <img src="https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/285094266_1150334852475349_6274733886123721554_n.jpg?stp=dst-jpg_p720x720&_nc_cat=107&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGVFvXTOR7ZTs-wEEPxlr0jK_5MLpPVVh4r_kwuk9VWHvRJ7eitv0p9D7VoNqOk2wFVZE4cPA2Csx17VA0yCLB-&_nc_ohc=DpOdTFum8F4AX8Koor6&_nc_oc=AQmxot-X39hf2ZRyS3DKEOxxG-RUkGzWVeMVvk7rcOh8tk9aNDM-Y752KpNzEXlGRl8&_nc_ht=scontent-iad3-2.xx&oh=00_AT-_9gw2dWDQHi-FCkSTzEbLHsWAAAs1hcwxNclMedpjzQ&oe=629BC59F">
-<img src="https://github.com/muntakim1/muntakim1/raw/master/home-banner.gif">
+<img src="https://github.com/muntakim1/muntakim1/raw/master/home-banner.gif" width="70" height="70">
 <h1 align="center"> Salut 👋, je suis NGUENA ZEBS</h1>
 <h3 align="center">Salut une fois de plus Je suis l'étudiant NGUENA ZEBS ou appel moi Pilote😅(Cameroun) Concepteur Developpeur d Application pour l economie numerique en formation à Institut Saint Jean. LICENCE PRO</h3>
 
