@@ -2,19 +2,19 @@
 
 <h1 align="center"> Bienvenue 👋, je suis NGUENA ZEBS (DevJAVA SE/ EE)</h1>
 <h3 align="center"> J'suis Dev@JAVA EE/Concepteur Developpeur d Application pour l economie numerique. Java est mon langage de programmation ou j'excel et que j'utilise pour le développement logiciels et d'application web avec J2EE.  LICENCE PRO</h3>
-<h2 align="center">
+<h4 align="center">
 J'adore le Java parce qu'elle est initialement conçu pour être :
   <ul>
     <li>Simple ☺</li>
-    <li>Robuste </li>
-    <li>Portable</li>
+    <li>Robuste 🦾</li>
+    <li>Portable 🚥</li>
     <li>Indépendant de la plateforme</li>
-    <li>Sécurisé</li>
+    <li>Sécurisé 🕵️‍♀️</li>
     <li>Haute performance</li>
   </ul>
-</h3>
+</h4>
 
-<h1 align="center"><img src="https://github.com/muntakim1/muntakim1/raw/master/home-banner.gif" width="160" height="130" align="center"></h1>
+<h1 align="center"><img src="https://github.com/muntakim1/muntakim1/raw/master/home-banner.gif" width="170" height="150" align="center"></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pilotezebs&label=Profile%20views&color=0e75b6&style=flat" alt="pilotezebs" /> </p>
 
