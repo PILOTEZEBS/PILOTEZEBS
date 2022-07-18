@@ -1,6 +1,6 @@
-<img src="https://z-p3-scontent.fdla2-1.fna.fbcdn.net/v/t39.30808-6/291617068_1170503067125194_6475873317252536255_n.jpg?stp=dst-jpg_p640x640&_nc_cat=109&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeFnRP7TaIHj8o5EPYGYk2BX7Fv1M509tXHsW_UznT21cZLcgFdYi57a_4E5gLjbjIM4lpZQB6fsP0CfCw_L5rSq&_nc_ohc=-v3F8OfRZOoAX_C812w&_nc_zt=23&_nc_ht=z-p3-scontent.fdla2-1.fna&oh=00_AT-pHd1uI9eX6Xz4tzEx86IRn4HvmsimnaaRPEE6bPok7Q&oe=62D1F750" height="50%">
+<img src="https://z-p3-scontent.fdla2-1.fna.fbcdn.net/v/t39.30808-6/291617068_1170503067125194_6475873317252536255_n.jpg?stp=dst-jpg_p640x640&_nc_cat=109&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeFnRP7TaIHj8o5EPYGYk2BX7Fv1M509tXHsW_UznT21cZLcgFdYi57a_4E5gLjbjIM4lpZQB6fsP0CfCw_L5rSq&_nc_ohc=-v3F8OfRZOoAX_C812w&_nc_zt=23&_nc_ht=z-p3-scontent.fdla2-1.fna&oh=00_AT-pHd1uI9eX6Xz4tzEx86IRn4HvmsimnaaRPEE6bPok7Q&oe=62D1F750" height="40%">
 
-<h1 align="center"> Bienvenue 👋, je suis NGUENA ZEBS (DevJAVA SE/ EE)</h1>
+<h2 align="center"> Bienvenue 👋, je suis NGUENA ZEBS (DevJAVA SE/ EE)</h2>
 <h3 align="center"> J'suis Dev@JAVA EE/Concepteur Developpeur d Application pour l economie numerique. Java est mon langage de programmation ou j'excel et que j'utilise pour le développement logiciels et d'application web avec J2EE.  LICENCE PRO</h3>
 <h4>
 J'adore le Java parce qu'elle est initialement conçu pour être :
