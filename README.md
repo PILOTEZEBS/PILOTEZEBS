@@ -1,7 +1,18 @@
 <img src="https://z-p3-scontent.fdla2-1.fna.fbcdn.net/v/t39.30808-6/291617068_1170503067125194_6475873317252536255_n.jpg?stp=dst-jpg_p640x640&_nc_cat=109&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeFnRP7TaIHj8o5EPYGYk2BX7Fv1M509tXHsW_UznT21cZLcgFdYi57a_4E5gLjbjIM4lpZQB6fsP0CfCw_L5rSq&_nc_ohc=-v3F8OfRZOoAX_C812w&_nc_zt=23&_nc_ht=z-p3-scontent.fdla2-1.fna&oh=00_AT-pHd1uI9eX6Xz4tzEx86IRn4HvmsimnaaRPEE6bPok7Q&oe=62D1F750" height="50%">
 
-<h1 align="center"> Salut 👋, je suis NGUENA ZEBS</h1>
-<h3 align="center">Salut une fois de plus Je suis l'étudiant NGUENA ZEBS ou appel moi Pilote😅(Cameroun) Concepteur Developpeur d Application pour l economie numerique en formation à Institut Saint Jean. LICENCE PRO</h3>
+<h1 align="center"> Salut 👋, je suis NGUENA ZEBS (DevJAVASE && DevJAVAEE)</h1>
+<h3 align="center"> J'suis Dev@JAVA EE/Concepteur Developpeur d Application pour l economie numerique. Java est mon langage de programmation ou j'excel et que j'utilise pour le développement logiciels et d'application web avec J2EE.  LICENCE PRO</h3>
+<h2 align="center">
+J'adore le Java parce qu'elle est initialement conçu pour être :
+  <ul>
+    <li>Simple ☺</li>
+    <li>Robuste </li>
+    <li>Portable</li>
+    <li>Indépendant de la plateforme</li>
+    <li>Sécurisé</li>
+    <li>Haute performance</li>
+  </ul>
+</h3>
 
 <h1 align="center"><img src="https://github.com/muntakim1/muntakim1/raw/master/home-banner.gif" width="150" height="120" align="center"></h1>
 
